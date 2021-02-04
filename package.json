@@ -1,0 +1,18 @@
+{
+  "name": "restapisnode",
+  "version": "1.0.0",
+  "description": "creando api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "author": "SebasGS",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.14"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
